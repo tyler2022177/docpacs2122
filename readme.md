@@ -8,3 +8,5 @@
 - Jaysin Haugh
 - Logan Hiller
 - Xavier Matheson
+- Leniece Bennett
+
