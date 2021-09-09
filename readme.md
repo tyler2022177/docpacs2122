@@ -6,3 +6,5 @@
 - Oley Birkeland
 - Christopher Mooney
 - Jaysin Haugh
+- Logan Hiller
+
