@@ -3,4 +3,3 @@
 ## Students:
 - Mr. Smith
 - Parker Fink
--Parker Fink
