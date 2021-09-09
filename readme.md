@@ -10,3 +10,4 @@
 - Xavier Matheson
 - Leniece Bennett
 - Ethan Shimmel
+- Jayson Zeigler
