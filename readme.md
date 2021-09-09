@@ -9,4 +9,4 @@
 - Logan Hiller
 - Xavier Matheson
 - Leniece Bennett
-
+- Ethan Shimmel
