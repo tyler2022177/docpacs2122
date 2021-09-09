@@ -5,3 +5,4 @@
 - Jenna Mellen
 - Oley Birkeland
 - Christopher Mooney
+- Jaysin Haugh
