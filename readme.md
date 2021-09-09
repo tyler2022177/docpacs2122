@@ -2,6 +2,6 @@
 
 ## Students:
 - Mr. Smith
-- Oley Birkeland
 - Jenna Mellen
-
+- Oley Birkeland
+- Christopher Mooney
