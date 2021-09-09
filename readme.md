@@ -11,3 +11,4 @@
 - Leniece Bennett
 - Ethan Shimmel
 - Jayson Zeigler
+- Parker Fink
