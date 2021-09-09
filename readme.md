@@ -2,3 +2,4 @@
 
 ## Students:
 - Mr. Smith
+- Jenna Mellen
