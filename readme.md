@@ -3,3 +3,5 @@
 ## Students:
 - Mr. Smith
 - Christian Boldt
+- Sussy Master
+- Nea Karlsson
