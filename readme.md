@@ -22,3 +22,6 @@
 - Aidan Hamme
 - Jacob Smith
 - Tyler Siegmund
+- seth martin
+- Will Shealer
+- John Eckert
