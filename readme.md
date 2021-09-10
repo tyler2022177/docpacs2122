@@ -20,3 +20,4 @@
 - Tyler Rich
 - Dylan Martin
 - Aidan Hamme
+- Jacob Smith
