@@ -16,3 +16,4 @@
 - Saimye Dennis
 - Riley Rorrer
 - Trey Floto
+- Jason Lara
