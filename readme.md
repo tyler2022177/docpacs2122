@@ -21,3 +21,4 @@
 - Dylan Martin
 - Aidan Hamme
 - Jacob Smith
+- seth martin
