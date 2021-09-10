@@ -19,3 +19,4 @@
 - Jason Lara
 - Tyler Rich
 - Dylan Martin
+- Aidan Hamme
