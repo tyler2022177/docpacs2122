@@ -17,3 +17,4 @@
 - Riley Rorrer
 - Trey Floto
 - Jason Lara
+- Tyler Rich
