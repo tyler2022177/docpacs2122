@@ -13,3 +13,4 @@
 - Jayson Zeigler
 - Parker Fink
 - Christian Boldt
+- Saimye Dennis
