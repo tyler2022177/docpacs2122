@@ -22,3 +22,4 @@
 - Aidan Hamme
 - Jacob Smith
 - seth martin
+- Will Shealer
