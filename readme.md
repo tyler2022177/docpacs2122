@@ -12,3 +12,4 @@
 - Ethan Shimmel
 - Jayson Zeigler
 - Parker Fink
+- Christian Boldt
