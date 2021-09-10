@@ -15,3 +15,4 @@
 - Christian Boldt
 - Saimye Dennis
 - Riley Rorrer
+- Trey Floto
