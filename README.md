@@ -3,7 +3,6 @@
 ## Students:
 - Mr. Smith
 - Jenna Mellen
-- Riley Rorrer
 - Oley Birkeland
 - Christopher Mooney
 - Jaysin Haugh
