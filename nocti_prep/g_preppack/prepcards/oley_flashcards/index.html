@@ -65,10 +65,7 @@
       ]
     }`
     var object_nocti = JSON.parse(json_nocti);
-    var data_nocti = [];
-    for (let section in object_nocti) {
-      object_nocti[section].forEach(question => data_nocti.push(question));
-    }
+    var data_nocti = Object.values(object_nocti).flat();
 
     var data_javascript = [
       // ['Will', '', ['', '', '', ''], '', ''],
